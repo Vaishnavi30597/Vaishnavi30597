@@ -75,7 +75,7 @@
    
         "NationalId": "IND",
         "gender": "Male",
-        "Name": "Sally Timble",
+        "name": "Sally Timble",
         "language": "English",
         "firstName": "Sally",
         "ContactId": "Con-222002",
@@ -158,7 +158,7 @@
             }
         ],
         "NationalId": "IND",
-        "gender": "Male",
+        "gender": "Female",
         "name": "Sally Timble",
         "language": "English",
         "firstName": "Sally",
