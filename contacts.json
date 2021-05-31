@@ -1,7 +1,5 @@
 [{
         "Origin": "Sample",
-        //"AssistantPhone": "9798798789",
-        //"AssistantLastName": "Sharma",
         "ContactMethodsList": [
             {
                 "TypeID": "Work",
@@ -74,42 +72,19 @@
                 "ContactMethodTypeID": "Fax"
             }
         ],
-      //  "DoNotCall": false,
-        //"AssistantName": "Ishaan Sharma",
+   
         "NationalId": "IND",
-       // "AssistantEmail": "joe@t.com",
-       // "LifetimeValue": "60",
         "gender": "Male",
-       // "Salutation": "Mr.",
         "Name": "Sally Timble",
-       // "Department": "",
         "language": "English",
-       // "BestTimeToContact": "10 AM- 11 AM",
-       // "ReportsTo": "",
-      //  "ResponsibilityDescription": "",
-      //  "DoNotEmail": false,
-    //    "InfluenceRating": "",
-       // "Status": "Active",
-       // "ChurnRisk": "2",
         "firstName": "Sally",
-       // "Title": "",
-       // "AssistantFirstName": "Ishaan",
         "ContactId": "Con-222002",
         "middleName": "James",
-      //  "CommunicationPreference": "Email",
-       // "MaritalStatus": "Single",
-        //"Suffix": "PhD",
-       // "FavorabilityRating": "",
-       // "CustomerSince": "2021-05-18",
         "lastName": "Timble",
-      //  "ManagementLevel": "",
-       // "BirthDate": "2021-02-01T05:00:00.000Z"
     },
 
     {
         "Origin": "Sample",
-      //  "AssistantPhone": "9798798789",
-        //"AssistantLastName": "Sharma",
         "ContactMethodsList": [
             {
                 "TypeID": "Work",
@@ -182,34 +157,12 @@
                 "ContactMethodTypeID": "Fax"
             }
         ],
-     //   "DoNotCall": false,
-     //   "AssistantName": "Ishaan Sharma",
         "NationalId": "IND",
-    //    "AssistantEmail": "joe@t.com",
         "gender": "Male",
-   //     "LifetimeValue": "60",
-   //     "Salutation": "Mr.",
         "name": "Sally Timble",
-   //     "Department": "",
         "language": "English",
-  //      "BestTimeToContact": "10 AM- 11 AM",
-   //     "ReportsTo": "",
-  //      "ResponsibilityDescription": "",
-    //    "DoNotEmail": false,
-     //   "InfluenceRating": "",
-      //  "Status": "Active",
-       // "ChurnRisk": "2",
         "firstName": "Sally",
-     //   "Title": "",
-       // "AssistantFirstName": "Ishaan",
         "ContactId": "Con-222001",
         "middleName": "James",
-    //    "CommunicationPreference": "Email",
-     //   "MaritalStatus": "Single",
-      //  "Suffix": "PhD",
-       // "FavorabilityRating": "",
-      //  "CustomerSince": "2021-05-18",
-      //  "ManagementLevel": "",
         "lastName": "Timble",
-      //  "BirthDate": "2021-01-02T05:00:00.000Z"
     }]
