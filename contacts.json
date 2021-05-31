@@ -2,74 +2,74 @@
     {
         "ContactMethodsList": [
             {
-                "TypeID": "Work",
-                "AllowMarketing": "True",
-                "IsPrimary": "true",
-                "PhoneNumber": "912-675-987",
-                "ContactMethodTypeID": "Phone"
+                "TypeId": "Work",
+                "allowMarketing": "True",
+                "Primary": "true",
+                "phoneNumber": "912-675-987",
+                "ContactMethodTypeId": "Phone"
             },
             {
-                "TypeID": "Personal",
-                "AllowMarketing": "false",
-                "IsPrimary": "false",
-                "PhoneNumber": "912-675-989",
-                "ContactMethodTypeID": "Phone"
+                "TypeId": "Personal",
+                "allowMarketing": "false",
+                "Primary": "false",
+                "phoneNumber": "912-675-989",
+                "ContactMethodTypeId": "Phone"
             },
             {
-                "TypeID": "Work",
-                "AllowMarketing": "false",
-                "Email": "Sally.timble@test.com",
-                "IsPrimary": "true",
-                "ContactMethodTypeID": "Email"
+                "TypeId": "Work",
+                "allowMarketing": "false",
+                "email": "Sally.timble@test.com",
+                "Primary": "true",
+                "ContactMethodTypeId": "Email"
             },
             {
-                "TypeID": "Personal",
-                "AllowMarketing": "false",
-                "Email": "Sally.personal@test.com",
-                "IsPrimary": "false",
-                "ContactMethodTypeID": "Email"
+                "TypeId": "Personal",
+                "allowMarketing": "false",
+                "email": "Sally.personal@test.com",
+                "Primary": "false",
+                "ContactMethodTypeId": "Email"
             },
             {
-                "CountryID": "USA",
-                "TypeID": "Personal",
-                "AllowMarketing": "false",
-                "AddressSummary": "50 Oakland Ave #206 Florida  USA 32104",
-                "City": "Florida",
-                "ContactMethodTypeID": "Address",
-                "PostalCodeID": "32104",
-                "IsPrimary": "true",
-                "Line1": "50 Oakland Ave",
-                "Line2": "#206"
+                "CountryId": "USA",
+                "TypeId": "Personal",
+                "allowMarketing": "false",
+                "addressSummary": "50 Oakland Ave #206 Florida  USA 32104",
+                "city": "Florida",
+                "ContactMethodTypeId": "Address",
+                "postalCodeID": "32104",
+                "Primary": "true",
+                "line1": "50 Oakland Ave",
+                "line2": "#206"
             },
             {
-                "CountryID": "USA",
-                "TypeID": "Work",
-                "AllowMarketing": "false",
-                "AddressSummary": "50 Oakland Ave #206 Florida  USA 32104",
-                "City": "Florida",
-                "ContactMethodTypeID": "Address",
-                "PostalCodeID": "32104",
-                "IsPrimary": "false",
-                "Line1": "50 Oakland Ave",
-                "Line2": "#206"
+                "CountryId": "USA",
+                "TypeId": "Work",
+                "allowMarketing": "false",
+                "addressSummary": "50 Oakland Ave #206 Florida  USA 32104",
+                "city": "Florida",
+                "ContactMethodTypeId": "Address",
+                "postalCodeID": "32104",
+                "Primary": "false",
+                "line1": "50 Oakland Ave",
+                "line2": "#206"
             },
             {
-                "TwitterURL": "http://twitter.com/joe.timble",
-                "FacebookID": "Joe.Timble",
-                "AppleBusinessID": "875395",
-                "FacebookURL": "http://facebook.com/joe.timble",
-                "WhatsappID": "912-675-987",
-                "TwitterID": "Joe.Timble",
-                "LinkedinID": "Joe.Timble",
-                "ContactMethodTypeID": "Social",
-                "LinkedinURL": "http://linkedin.com/joe.timble"
+                "twitterURL": "http://twitter.com/joe.timble",
+                "facebookID": "Joe.Timble",
+                "appleBusinessID": "875395",
+                "facebookURL": "http://facebook.com/joe.timble",
+                "whatsappID": "912-675-987",
+                "twitterID": "Joe.Timble",
+                "linkedinID": "Joe.Timble",
+                "ContactMethodTypeId": "Social",
+                "linkedinURL": "http://linkedin.com/joe.timble"
             },
             {
-                "TypeID": "Work",
-                "AllowMarketing": "false",
-                "FaxNumber": "8968687978989",
-                "IsPrimary": "false",
-                "ContactMethodTypeID": "Fax"
+                "TypeId": "Work",
+                "allowMarketing": "false",
+                "faxNumber": "8968687978989",
+                "Primary": "false",
+                "ContactMethodTypeId": "Fax"
             }
         ],
         "Origin": "Sample",
