@@ -1,5 +1,7 @@
-  {
-       
+{
+        "Origin": "Sample",
+        "AssistantPhone": "9798798789",
+        "AssistantLastName": "Sharma",
         "ContactMethodsList": [
             {
                 "TypeID": "Work",
@@ -9,7 +11,68 @@
                 "PhoneNumber": "912-675-987",
                 "ContactMethodTypeID": "Phone"
             },
-        
+            {
+                "TypeID": "Personal",
+                "AllowMarketing": "false",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
+                "IsPrimary": "false",
+                "PhoneNumber": "912-675-989",
+                "ContactMethodTypeID": "Phone"
+            },
+            {
+                "TypeID": "Work",
+                "AllowMarketing": "false",
+                "Email": "Sally.timble@test.com",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
+                "IsPrimary": "true",
+                "ContactMethodTypeID": "Email"
+            },
+            {
+                "TypeID": "Personal",
+                "AllowMarketing": "false",
+                "Email": "Sally.personal@test.com",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
+                "IsPrimary": "false",
+                "ContactMethodTypeID": "Email"
+            },
+            {
+                "CountryID": "USA",
+                "TypeID": "Personal",
+                "AllowMarketing": "false",
+                "AddressSummary": "50 Oakland Ave #206 Florida  USA 32104",
+                "City": "Florida",
+                "ContactMethodTypeID": "Address",
+                "PostalCodeID": "32104",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
+                "IsPrimary": "true",
+                "Line1": "50 Oakland Ave",
+                "Line2": "#206"
+            },
+            {
+                "CountryID": "USA",
+                "TypeID": "Work",
+                "AllowMarketing": "false",
+                "AddressSummary": "50 Oakland Ave #206 Florida  USA 32104",
+                "City": "Florida",
+                "ContactMethodTypeID": "Address",
+                "PostalCodeID": "32104",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
+                "IsPrimary": "false",
+                "Line1": "50 Oakland Ave",
+                "Line2": "#206"
+            },
+            {
+                "TwitterURL": "http://twitter.com/joe.timble",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
+                "FacebookID": "Joe.Timble",
+                "AppleBusinessID": "875395",
+                "FacebookURL": "http://facebook.com/joe.timble",
+                "WhatsappID": "912-675-987",
+                "TwitterID": "Joe.Timble",
+                "LinkedinID": "Joe.Timble",
+                "ContactMethodTypeID": "Social",
+                "LinkedinURL": "http://linkedin.com/joe.timble"
+            },
             {
                 "TypeID": "Work",
                 "AllowMarketing": "false",
@@ -19,13 +82,152 @@
                 "ContactMethodTypeID": "Fax"
             }
         ],
-      
+        "DoNotCall": false,
+        "AssistantName": "Ishaan Sharma",
+        "NationalID": "IND",
+        "AssistantEmail": "joe@t.com",
+        "LifetimeValue": "60",
         "Gender": "Male",
         "Salutation": "Mr.",
         "Name": "Sally Timble",
+        "Department": "",
+        "Language": "English",
+        "BestTimeToContact": "10 AM- 11 AM",
+        "ReportsTo": "",
+        "ResponsibilityDescription": "",
+        "DoNotEmail": false,
+        "InfluenceRating": "",
+        "Status": "Active",
+        "ChurnRisk": "2",
         "FirstName": "Sally",
+        "Title": "",
+        "AssistantFirstName": "Ishaan",
+        "pzInsKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
         "ContactID": "Con-222002",
         "MiddleName": "James",
+        "CommunicationPreference": "Email",
+        "MaritalStatus": "Single",
+        "Suffix": "PhD",
+        "FavorabilityRating": "",
+        "CustomerSince": "2021-05-18",
         "LastName": "Timble",
+        "ManagementLevel": "",
         "BirthDate": "2021-02-01T05:00:00.000Z"
     }
+
+    {
+        "Origin": "Sample",
+        "AssistantPhone": "9798798789",
+        "AssistantLastName": "Sharma",
+        "ContactMethodsList": [
+            {
+                "TypeID": "Work",
+                "AllowMarketing": "True",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
+                "IsPrimary": "true",
+                "PhoneNumber": "912-675-987",
+                "ContactMethodTypeID": "Phone"
+            },
+            {
+                "TypeID": "Personal",
+                "AllowMarketing": "false",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
+                "IsPrimary": "false",
+                "PhoneNumber": "912-675-989",
+                "ContactMethodTypeID": "Phone"
+            },
+            {
+                "TypeID": "Work",
+                "AllowMarketing": "false",
+                "Email": "Sally.timble@test.com",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
+                "IsPrimary": "true",
+                "ContactMethodTypeID": "Email"
+            },
+            {
+                "TypeID": "Personal",
+                "AllowMarketing": "false",
+                "Email": "Sally.personal@test.com",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
+                "IsPrimary": "false",
+                "ContactMethodTypeID": "Email"
+            },
+            {
+                "CountryID": "USA",
+                "TypeID": "Personal",
+                "AllowMarketing": "false",
+                "AddressSummary": "50 Oakland Ave #206 Florida  USA 32104",
+                "City": "Florida",
+                "ContactMethodTypeID": "Address",
+                "PostalCodeID": "32104",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
+                "IsPrimary": "true",
+                "Line1": "50 Oakland Ave",
+                "Line2": "#206"
+            },
+            {
+                "CountryID": "USA",
+                "TypeID": "Work",
+                "AllowMarketing": "false",
+                "AddressSummary": "50 Oakland Ave #206 Florida  USA 32104",
+                "City": "Florida",
+                "ContactMethodTypeID": "Address",
+                "PostalCodeID": "32104",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
+                "IsPrimary": "false",
+                "Line1": "50 Oakland Ave",
+                "Line2": "#206"
+            },
+            {
+                "TwitterURL": "http://twitter.com/joe.timble",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
+                "FacebookID": "Joe.Timble",
+                "AppleBusinessID": "875395",
+                "FacebookURL": "http://facebook.com/joe.timble",
+                "TwitterID": "Joe.Timble",
+                "WhatsappID": "912-675-987",
+                "LinkedinID": "Joe.Timble",
+                "LinkedinURL": "http://linkedin.com/joe.timble",
+                "ContactMethodTypeID": "Social"
+            },
+            {
+                "TypeID": "Work",
+                "AllowMarketing": "false",
+                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
+                "FaxNumber": "8968687978989",
+                "IsPrimary": "false",
+                "ContactMethodTypeID": "Fax"
+            }
+        ],
+        "DoNotCall": false,
+        "AssistantName": "Ishaan Sharma",
+        "NationalID": "IND",
+        "AssistantEmail": "joe@t.com",
+        "Gender": "Male",
+        "LifetimeValue": "60",
+        "Salutation": "Mr.",
+        "Name": "Sally Timble",
+        "Department": "",
+        "Language": "English",
+        "BestTimeToContact": "10 AM- 11 AM",
+        "ReportsTo": "",
+        "ResponsibilityDescription": "",
+        "DoNotEmail": false,
+        "InfluenceRating": "",
+        "Status": "Active",
+        "ChurnRisk": "2",
+        "FirstName": "Sally",
+        "Title": "",
+        "AssistantFirstName": "Ishaan",
+        "pzInsKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
+        "ContactID": "Con-222001",
+        "MiddleName": "James",
+        "CommunicationPreference": "Email",
+        "MaritalStatus": "Single",
+        "Suffix": "PhD",
+        "FavorabilityRating": "",
+        "CustomerSince": "2021-05-18",
+        "ManagementLevel": "",
+        "LastName": "Timble",
+        "BirthDate": "2021-01-02T05:00:00.000Z"
+    }]
