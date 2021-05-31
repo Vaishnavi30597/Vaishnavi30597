@@ -1,4 +1,4 @@
-
+[
     {
         "Origin": "Sample",
         "AssistantPhone": "9798798789",
@@ -231,3 +231,4 @@
         "LastName": "Timble",
         "BirthDate": "2021-01-02T05:00:00.000Z"
     }
+]
