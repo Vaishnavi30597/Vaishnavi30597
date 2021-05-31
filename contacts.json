@@ -6,7 +6,6 @@
             {
                 "TypeID": "Work",
                 "AllowMarketing": "True",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
                 "IsPrimary": "true",
                 "PhoneNumber": "912-675-987",
                 "ContactMethodTypeID": "Phone"
@@ -14,7 +13,6 @@
             {
                 "TypeID": "Personal",
                 "AllowMarketing": "false",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
                 "IsPrimary": "false",
                 "PhoneNumber": "912-675-989",
                 "ContactMethodTypeID": "Phone"
@@ -23,7 +21,6 @@
                 "TypeID": "Work",
                 "AllowMarketing": "false",
                 "Email": "Sally.timble@test.com",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
                 "IsPrimary": "true",
                 "ContactMethodTypeID": "Email"
             },
@@ -31,7 +28,6 @@
                 "TypeID": "Personal",
                 "AllowMarketing": "false",
                 "Email": "Sally.personal@test.com",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
                 "IsPrimary": "false",
                 "ContactMethodTypeID": "Email"
             },
@@ -43,7 +39,6 @@
                 "City": "Florida",
                 "ContactMethodTypeID": "Address",
                 "PostalCodeID": "32104",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
                 "IsPrimary": "true",
                 "Line1": "50 Oakland Ave",
                 "Line2": "#206"
@@ -56,14 +51,12 @@
                 "City": "Florida",
                 "ContactMethodTypeID": "Address",
                 "PostalCodeID": "32104",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
                 "IsPrimary": "false",
                 "Line1": "50 Oakland Ave",
                 "Line2": "#206"
             },
             {
                 "TwitterURL": "http://twitter.com/joe.timble",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
                 "FacebookID": "Joe.Timble",
                 "AppleBusinessID": "875395",
                 "FacebookURL": "http://facebook.com/joe.timble",
@@ -76,7 +69,6 @@
             {
                 "TypeID": "Work",
                 "AllowMarketing": "false",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
                 "FaxNumber": "8968687978989",
                 "IsPrimary": "false",
                 "ContactMethodTypeID": "Fax"
@@ -102,7 +94,6 @@
         "FirstName": "Sally",
         "Title": "",
         "AssistantFirstName": "Ishaan",
-        "pzInsKey": "COMMON-LDM-ENTITY-CONTACT CON-222002",
         "ContactID": "Con-222002",
         "MiddleName": "James",
         "CommunicationPreference": "Email",
@@ -123,7 +114,6 @@
             {
                 "TypeID": "Work",
                 "AllowMarketing": "True",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
                 "IsPrimary": "true",
                 "PhoneNumber": "912-675-987",
                 "ContactMethodTypeID": "Phone"
@@ -131,7 +121,6 @@
             {
                 "TypeID": "Personal",
                 "AllowMarketing": "false",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
                 "IsPrimary": "false",
                 "PhoneNumber": "912-675-989",
                 "ContactMethodTypeID": "Phone"
@@ -140,7 +129,6 @@
                 "TypeID": "Work",
                 "AllowMarketing": "false",
                 "Email": "Sally.timble@test.com",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
                 "IsPrimary": "true",
                 "ContactMethodTypeID": "Email"
             },
@@ -148,7 +136,6 @@
                 "TypeID": "Personal",
                 "AllowMarketing": "false",
                 "Email": "Sally.personal@test.com",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
                 "IsPrimary": "false",
                 "ContactMethodTypeID": "Email"
             },
@@ -160,7 +147,6 @@
                 "City": "Florida",
                 "ContactMethodTypeID": "Address",
                 "PostalCodeID": "32104",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
                 "IsPrimary": "true",
                 "Line1": "50 Oakland Ave",
                 "Line2": "#206"
@@ -173,14 +159,12 @@
                 "City": "Florida",
                 "ContactMethodTypeID": "Address",
                 "PostalCodeID": "32104",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
                 "IsPrimary": "false",
                 "Line1": "50 Oakland Ave",
                 "Line2": "#206"
             },
             {
                 "TwitterURL": "http://twitter.com/joe.timble",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
                 "FacebookID": "Joe.Timble",
                 "AppleBusinessID": "875395",
                 "FacebookURL": "http://facebook.com/joe.timble",
@@ -193,7 +177,6 @@
             {
                 "TypeID": "Work",
                 "AllowMarketing": "false",
-                "pzIndexOwnerKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
                 "FaxNumber": "8968687978989",
                 "IsPrimary": "false",
                 "ContactMethodTypeID": "Fax"
@@ -219,7 +202,6 @@
         "FirstName": "Sally",
         "Title": "",
         "AssistantFirstName": "Ishaan",
-        "pzInsKey": "COMMON-LDM-ENTITY-CONTACT CON-222001",
         "ContactID": "Con-222001",
         "MiddleName": "James",
         "CommunicationPreference": "Email",
