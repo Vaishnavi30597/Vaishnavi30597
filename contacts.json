@@ -1,168 +1,171 @@
 [
-    {
-        "ContactMethodsList": [
-            {
-                "TypeId": "Work",
-                "allowMarketing": "True",
-                "Primary": "true",
-                "phoneNumber": "912-675-987",
-                "ContactMethodTypeId": "Phone"
-            },
-            {
-                "TypeId": "Personal",
-                "allowMarketing": "false",
-                "Primary": "false",
-                "phoneNumber": "912-675-989",
-                "ContactMethodTypeId": "Phone"
-            },
-            {
-                "TypeId": "Work",
-                "allowMarketing": "false",
-                "email": "Sally.timble@test.com",
-                "Primary": "true",
-                "ContactMethodTypeId": "Email"
-            },
-            {
-                "TypeId": "Personal",
-                "allowMarketing": "false",
-                "email": "Sally.personal@test.com",
-                "Primary": "false",
-                "ContactMethodTypeId": "Email"
-            },
-            {
-                "CountryId": "USA",
-                "TypeId": "Personal",
-                "allowMarketing": "false",
-                "addressSummary": "50 Oakland Ave #206 Florida  USA 32104",
-                "city": "Florida",
-                "ContactMethodTypeId": "Address",
-                "postalCodeID": "32104",
-                "Primary": "true",
-                "line1": "50 Oakland Ave",
-                "line2": "#206"
-            },
-            {
-                "CountryId": "USA",
-                "TypeId": "Work",
-                "allowMarketing": "false",
-                "addressSummary": "50 Oakland Ave #206 Florida  USA 32104",
-                "city": "Florida",
-                "ContactMethodTypeId": "Address",
-                "postalCodeID": "32104",
-                "Primary": "false",
-                "line1": "50 Oakland Ave",
-                "line2": "#206"
-            },
-            {
-                "twitterURL": "http://twitter.com/joe.timble",
-                "facebookID": "Joe.Timble",
-                "appleBusinessID": "875395",
-                "facebookURL": "http://facebook.com/joe.timble",
-                "whatsappID": "912-675-987",
-                "twitterID": "Joe.Timble",
-                "linkedinID": "Joe.Timble",
-                "ContactMethodTypeId": "Social",
-                "linkedinURL": "http://linkedin.com/joe.timble"
-            },
-            {
-                "TypeId": "Work",
-                "allowMarketing": "false",
-                "faxNumber": "8968687978989",
-                "Primary": "false",
-                "ContactMethodTypeId": "Fax"
-            }
-        ],
-        "Origin": "Sample",
-        "NationalId": "IND",
-        "gender": "Male",
-        "name": "Sally Timble",
-        "language": "English",
-        "firstName": "Sally",
-        "ContactId": "Con-222002",
-        "middleName": "James",
-        "lastName": "Timble"
-    },
-    {
-        "ContactMethodsList": [
-            {
-                "TypeID": "Work",
-                "AllowMarketing": "True",
-                "IsPrimary": "true",
-                "PhoneNumber": "912-675-987",
-                "ContactMethodTypeID": "Phone"
-            },
-            {
-                "TypeID": "Personal",
-                "AllowMarketing": "false",
-                "IsPrimary": "false",
-                "PhoneNumber": "912-675-989",
-                "ContactMethodTypeID": "Phone"
-            },
-            {
-                "TypeID": "Work",
-                "AllowMarketing": "false",
-                "Email": "Sally.timble@test.com",
-                "IsPrimary": "true",
-                "ContactMethodTypeID": "Email"
-            },
-            {
-                "TypeID": "Personal",
-                "AllowMarketing": "false",
-                "Email": "Sally.personal@test.com",
-                "IsPrimary": "false",
-                "ContactMethodTypeID": "Email"
-            },
-            {
-                "CountryID": "USA",
-                "TypeID": "Personal",
-                "AllowMarketing": "false",
-                "AddressSummary": "50 Oakland Ave #206 Florida  USA 32104",
-                "City": "Florida",
-                "ContactMethodTypeID": "Address",
-                "PostalCodeID": "32104",
-                "IsPrimary": "true",
-                "Line1": "50 Oakland Ave",
-                "Line2": "#206"
-            },
-            {
-                "CountryID": "USA",
-                "TypeID": "Work",
-                "AllowMarketing": "false",
-                "AddressSummary": "50 Oakland Ave #206 Florida  USA 32104",
-                "City": "Florida",
-                "ContactMethodTypeID": "Address",
-                "PostalCodeID": "32104",
-                "IsPrimary": "false",
-                "Line1": "50 Oakland Ave",
-                "Line2": "#206"
-            },
-            {
-                "TwitterURL": "http://twitter.com/joe.timble",
-                "FacebookID": "Joe.Timble",
-                "AppleBusinessID": "875395",
-                "FacebookURL": "http://facebook.com/joe.timble",
-                "TwitterID": "Joe.Timble",
-                "WhatsappID": "912-675-987",
-                "LinkedinID": "Joe.Timble",
-                "LinkedinURL": "http://linkedin.com/joe.timble",
-                "ContactMethodTypeID": "Social"
-            },
-            {
-                "TypeID": "Work",
-                "AllowMarketing": "false",
-                "FaxNumber": "8968687978989",
-                "IsPrimary": "false",
-                "ContactMethodTypeID": "Fax"
-            }
-        ],
-        "Origin": "Sample",
-        "NationalId": "IND",
-        "gender": "Female",
-        "name": "Sally Timble",
-        "language": "English",
-        "firstName": "Sally",
-        "ContactId": "Con-222001",
-        "middleName": "James",
-        "lastName": "Timble"
-    }
+  {
+"ContactMethodsList": [
+{
+"TypeId": "Work",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "true",
+"phoneNumber": "112234455",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Phone"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "false",
+"phoneNumber": "8899776655",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Phone"
+},
+{
+"TypeId": "Work",
+"allowMarketing": "false",
+"email": "prithwi@ss.com",
+"isPrimary": "false",
+"phoneNumber": "",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Email"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "yuvi@s.com",
+"isPrimary": "true",
+"phoneNumber": "",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Email"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "true",
+"phoneNumber": "",
+"addressSummary": " decdd BR ",
+"RegionId": "BR",
+"city": "decdd",
+"ContactMethodTypeId": "Address"
+},
+{
+"TypeId": "Work",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "false",
+"phoneNumber": "",
+"addressSummary": " dscd TN ",
+"RegionId": "TN",
+"city": "dscd",
+"ContactMethodTypeId": "Address"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "true",
+"phoneNumber": "",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Fax"
+}
+],
+"Language": "English",
+"FirstName": "Kevin",
+"NationalID": "IND",
+"ContactID": "Con-1235",
+"LastName": "Peterson",
+"Gender": "Male",
+"MiddleName": "The",
+"Name": "Kevin Peterson"
+},
+{
+"ContactMethodsList": [
+{
+"TypeId": "Work",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "true",
+"phoneNumber": "112234455",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Phone"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "false",
+"phoneNumber": "8899776655",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Phone"
+},
+{
+"TypeId": "Work",
+"allowMarketing": "false",
+"email": "prithwi@ss.com",
+"isPrimary": "false",
+"phoneNumber": "",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Email"
+},
+
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "yuvi@s.com",
+"isPrimary": "true",
+"phoneNumber": "",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Email"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "true",
+"phoneNumber": "",
+"addressSummary": " decdd BR ",
+"RegionId": "BR",
+"city": "decdd",
+"ContactMethodTypeId": "Address"
+},
+{
+"TypeId": "Work",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "false",
+"phoneNumber": "",
+"addressSummary": " dscd TN ",
+"RegionId": "TN",
+"city": "dscd",
+"ContactMethodTypeId": "Address"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "true",
+"phoneNumber": "",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Fax"
+}
+],
+"Language": "English",
+"FirstName": "Kevin1",
+"NationalID": "IND",
+"ContactID": "Con-1234",
+"LastName": "Peterson",
+"Gender": "Male",
+"MiddleName": "The",
+"Name": "Kevin Peterson"
+}
 ]
