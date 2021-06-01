@@ -8,7 +8,7 @@
 "isPrimary": "true",
 "phoneNumber": "112234455",
 "RegionId": "",
-"city": "",
+"": "",
 "ContactMethodTypeId": "Phone"
 },
 {
@@ -74,14 +74,14 @@
 "ContactMethodTypeId": "Fax"
 }
 ],
-"Language": "English",
-"FirstName": "Kevin",
-"NationalID": "IND",
-"ContactID": "Con-1235",
-"LastName": "Peterson",
-"Gender": "Male",
-"MiddleName": "The",
-"Name": "Kevin Peterson"
+"language": "English",
+"firstName": "Kevin",
+"NationalId": "IND",
+"ContactId": "Con-1235",
+"lastName": "Peterson",
+"gender": "Male",
+"middleName": "The",
+"name": "Kevin Peterson"
 },
 {
 "ContactMethodsList": [
@@ -159,13 +159,13 @@
 "ContactMethodTypeId": "Fax"
 }
 ],
-"Language": "English",
-"FirstName": "Kevin1",
-"NationalID": "IND",
-"ContactID": "Con-1234",
-"LastName": "Peterson",
-"Gender": "Male",
-"MiddleName": "The",
-"Name": "Kevin Peterson"
+"language": "English",
+"firstName": "Kevin1",
+"NationalId": "IND",
+"ContactId": "Con-1234",
+"lastName": "Peterson",
+"gender": "Male",
+"middleName": "The",
+"name": "Kevin Peterson"
 }
 ]
