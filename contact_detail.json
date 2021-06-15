@@ -1,0 +1,85 @@
+[
+  {
+"ContactMethodsList": [
+{
+"TypeId": "Work",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "true",
+"phoneNumber": "112234455",
+"RegionId": "",
+"": "",
+"ContactMethodTypeId": "Phone"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "false",
+"phoneNumber": "8899776655",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Phone"
+},
+{
+"TypeId": "Work",
+"allowMarketing": "false",
+"email": "prithwi@ss.com",
+"isPrimary": "false",
+"phoneNumber": "",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Email"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "yuvi@s.com",
+"isPrimary": "true",
+"phoneNumber": "",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Email"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "true",
+"phoneNumber": "",
+"addressSummary": " decdd BR ",
+"RegionId": "BR",
+"city": "decdd",
+"ContactMethodTypeId": "Address"
+},
+{
+"TypeId": "Work",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "false",
+"phoneNumber": "",
+"addressSummary": " dscd TN ",
+"RegionId": "TN",
+"city": "dscd",
+"ContactMethodTypeId": "Address"
+},
+{
+"TypeId": "Personal",
+"allowMarketing": "false",
+"email": "",
+"isPrimary": "true",
+"phoneNumber": "",
+"RegionId": "",
+"city": "",
+"ContactMethodTypeId": "Fax"
+}
+],
+"language": "English",
+"firstName": "Kevin",
+"NationalId": "IND",
+"ContactId": "Con-1235",
+"lastName": "Peterson",
+"gender": "Male",
+"middleName": "The",
+"name": "Kevin Peterson"
+}
